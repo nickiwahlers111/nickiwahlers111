@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickiwahlers111
-- 👀 I’m interested in software development organization
-- 🌱 I’m currently studying CS at Portland State University
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development, data engineering, project management
+- 🌱 I’m currently pursuing a Masters in Computer Science at Portland State University
 - 📫 How to reach me:  nicki.wahlers@gmail.com
 
 <!---
